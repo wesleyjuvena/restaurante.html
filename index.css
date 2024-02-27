@@ -40,3 +40,7 @@ h1{
     transition: 3S;
     font-size: 30px;
 }
+
+input::placeholder{
+    text-align: center;
+}
