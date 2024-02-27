@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: bisque;
+    background-image: url(./imagens/81XXMgkOfCL._RI_.webp);
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+.form-academia > input{
+    background-color: aqua;
+    color: blue;
+}
+
+.form-academia > input::placeholder{
+    background-color: blue;
+    color: black;
+    border-radius: 5%;
+    border: 5px solid gold;
+    font-size: 15px;
+}
+
+.form-academia  label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.DDD{
+    color: brown;
+    background-color: aqua;
+}
+
+.botao-enviar input{
+    background-color: aqua;
+    color: black;
+}
+
+.botao-enviar input:hover{
+    transition: 3S;
+    font-size: 30px;
+}
